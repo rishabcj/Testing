@@ -1,2 +1,2 @@
 # Testing
-This project is to explore some git commands
+This project is to explore some git commands.
