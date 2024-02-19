@@ -14,3 +14,4 @@ INSERT INTO configadm.test_temp
 VALUES(3, 'Test_2');
 
 new
+new
